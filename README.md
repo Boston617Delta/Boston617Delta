@@ -1,6 +1,6 @@
 # I'm Dani
 
-**Founder of [NOVA Brandworks](https://www.novabrandworks.com)**, a one-person marketing agency in the Boston area. I share the routines and templates I use for client work at [Pretty Smart Prompts](https://prettysmartprompts.com), and I open-source the tools other solo operators can use.
+**Founder of [NOVA Brandworks](https://www.novabrandworks.com)**, marketing agency in the Boston area. I share the routines and templates I use for client work at [Pretty Smart Prompts](https://prettysmartprompts.com), and I open-source the tools other solo operators can use.
 
 ## Open source
 
